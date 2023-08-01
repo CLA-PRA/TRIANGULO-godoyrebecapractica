@@ -1,0 +1,3 @@
+./miTest/AppTest.java
+./miPrincipal/Triangulo.java
+./miPrincipal/Principal.java
