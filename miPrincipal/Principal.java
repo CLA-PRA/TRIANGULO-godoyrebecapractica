@@ -16,11 +16,6 @@ public class Principal {
         System.out.print("Introduce el primer lado:");
         lado1 = consola.nextInt();
         
-        System.out.print("Introduce el segundo lado:");
-        lado2 = consola.nextInt();
-        
-        System.out.print("Introduce el tercer lado:");
-        lado3 = consola.nextInt();
 
         System.out.println("El resultado es "+t.verifica(lado1, lado2, lado3));
         consola.close();
